@@ -12,23 +12,23 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/franciscojunior10/github-explorer">
 
   <a href="https://www.linkedin.com/in/franciscojunior10/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-franciscojunior10-%">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-franciscojunior10-blue">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/franciscojunior10/github-explorer">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/franciscojunior10/github-explorer?color=blue">
 
   <a href="https://github.com/franciscojunior10/github-explorer/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franciscojunior10/github-explorer">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franciscojunior10/github-explorer?color=blue">
   </a>
 
   <a href="https://github.com/franciscojunior10/github-explorer/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/franciscojunior10/github-explorer">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/franciscojunior10/github-explorer?color=blue">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/franciscojunior10/github-explorer">
+  <img alt="GitHub" src="https://img.shields.io/github/license/franciscojunior10/github-explorer?color=blue">
 
    <a href="https://github.com/franciscojunior10/github-explorer/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/franciscojunior10/github-explorer">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/franciscojunior10/github-explorer?color=blue">
   </a>
 </p>
 
