@@ -55,6 +55,8 @@ Technologies that I used to develop this WebSite
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Router DOM](https://reacttraining.com/react-router/)
 - [Styled Components](https://styled-components.com/)
+- [Polished](https://github.com/styled-components/polished)
+- [React Icons](https://react-icons.github.io/react-icons/)
 - [Axios](https://github.com/axios/axios)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
