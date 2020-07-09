@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  WebSite GitHub Explorer project in :construction:
+  WebSite GitHub Explorer:
 </h3>
 
 <p align="center">The best way to search for profiles on GitHub!</p>
