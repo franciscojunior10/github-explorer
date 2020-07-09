@@ -40,6 +40,11 @@
   <a href="#-license">License</a>
 </p>
 
+
+<p align="center">
+  <img alt="Gif" src="https://user-images.githubusercontent.com/33940202/86991362-4c14fe00-c175-11ea-94bf-21e6e93446da.gif" />
+</p>
+
 ## About the project :open_file_folder::
 
 This website provides the user with a search for GitHub users.
